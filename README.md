@@ -1,2 +1,2 @@
 # Hough-transform
-Demonstracija rada hofove trasvormacije. Objasnjenje i prikaz algoritmasu su predstavljeni u svesci 01.
+Demonstracija rada hofove trasformacije. Objasnjenje i prikaz algoritma su su predstavljeni u svesci 01.
